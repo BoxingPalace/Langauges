@@ -12,6 +12,9 @@
     "LobbySystem.message.soon": "{PREFIX}Cooming Soon!",
     "ClanSystem.confirm.deleteClan": "Clan delete?",
     
+    
+    "Console.Ingame": "Ingame Oida",
+    
     "verificationSystem.player.verificationKey": "VerifyCode",
     "verificationSystem.status.true": "True Verified",
     "verificationSystem.status.false": "False Verified"
