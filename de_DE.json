@@ -9,7 +9,12 @@
     "LanguageSystem.values": "{PREFIX}&7DE&8, &7EN&8, &eES",
     "server.unknown.cmd.message": "{PREFIX}&7No Command found!",
     "CoinSystem.coins": "{PREFIX} &7Your Coins are &6{COINS} &7Coins!",
+    
+    "LobbySystem.message.buildmode.activate": "§aDu kannst nun Bauen",
+    "LobbySystem.message.buildmode.deactivate": "§cDu kannst nun nicht mehr Bauen",
     "LobbySystem.message.soon": "{PREFIX}Cooming Soon!",
+    
+    
     "ClanSystem.confirm.deleteClan": "Clan delete?",
     
     "verificationSystem.player.verificationKey": "VerifyCode",
