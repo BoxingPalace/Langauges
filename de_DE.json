@@ -19,6 +19,8 @@
     
     "Console.Ingame": "{PREFIX}§cBitte nur Ingame ausführen!",
     
+    "GroupSystem.NickList": "{PREFIX}§cNicklist on {SERVER}",
+    
     
     
     "ClanSystem.confirm.deleteClan": "Clan delete?",
