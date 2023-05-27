@@ -1,0 +1,37 @@
+{
+  "name": "Croatian",
+  "localeCode": "hr_HR",
+  "emoji": "🇭🇷",
+  "prefix": "§eBoxing§6Palace §r§f§7",
+  "contributors": ["EyNoah"],
+  "values": {
+    "LanguageSystem.change": "{PREFIX}&7Vaš jezik je sada promijenjen!",
+    "LanguageSystem.values": "{PREFIX}&7DE&8, &7EN&8, &eES&8, &7HR",
+    "server.unknown.cmd.message": "{PREFIX}&7Nije pronađena nijedna naredba!",
+    "CoinSystem.coins": "{PREFIX} &7Imate &e{COINS} &7novčića!",
+    
+    "LobbySystem.message.buildmode.activate": "§aSada možete graditi",
+    "LobbySystem.message.buildmode.deactivate": "§cNe možete više graditi",
+    "LobbySystem.message.soon": "{PREFIX}Dolazi uskoro!",
+    "LobbySystem.game.teleported": "{PREFIX}&aDu wurdest zu§6{GAME} §7teleportiert!",
+    
+    "EventSystem.notOnline": "Not Online yet.",
+    
+    "Console.Ingame": "{PREFIX}§cBitte nur Ingame ausführen!",
+    
+   "GroupSystem.NickList": "{PREFIX}§cNickliste on {SERVER}",
+    "GroupSystem.message.giveplayergroup": "§7You gave §f{NAME} §7the Rank §f{GROUP}",
+    "GroupSystem.message.setnewRank": "§7You got a New Rank §f{GROUP}",
+    "GroupSystem.message.giveplayergroup": "§7You have {NAME} §f{GROUP}",
+    "GroupSystem.message.groupNotFound": "§cThis Group was not Found",
+    "GroupSystem.message.rankInfo": "§7Du hast den Rang §f{GROUP} §7und der läuft ab in §c{EXPIRERANK}",
+    
+    
+    
+    "ClanSystem.confirm.deleteClan": "Clan delete?",
+    
+    "verificationSystem.player.verificationKey": "VerifyCode",
+    "verificationSystem.status.true": "True Verified",
+    "verificationSystem.status.false": "False Verified"
+  }
+}
