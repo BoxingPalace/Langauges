@@ -5,7 +5,7 @@
   "prefix": "§eBoxing§6Palace §r§f§7",
   "contributors": ["EyNoah"],
   "values": {
-    "LanguageSystem.change": "{PREFIX}&7Your Language was changed",
+    "LanguageSystem.change": "{PREFIX}&7Deine Sprache wurde nun geändert!",
     "LanguageSystem.values": "{PREFIX}&7DE&8, &7EN&8, &eES",
     "server.unknown.cmd.message": "{PREFIX}&7No Command found!",
     "CoinSystem.coins": "{PREFIX} &7Your Coins are &6{COINS} &7Coins!",
