@@ -13,6 +13,7 @@
     "LobbySystem.message.buildmode.activate": "§aDu kannst nun Bauen",
     "LobbySystem.message.buildmode.deactivate": "§cDu kannst nun nicht mehr Bauen",
     "LobbySystem.message.soon": "{PREFIX}Cooming Soon!",
+    "LobbySystem.game.teleported": "{PREFIX}&aDu wurdest zu§6{GAME} §7teleportiert!",
     
     
     "ClanSystem.confirm.deleteClan": "Clan delete?",
