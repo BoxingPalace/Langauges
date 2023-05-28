@@ -26,6 +26,8 @@
     "GroupSystem.message.groupNotFound": "§cDiese Gruppe wurde nicht gefunden!",
     "GroupSystem.message.rankInfo": "§7Du hast den Rang §f{GROUP} §7und der läuft ab in §c{EXPIRERANK}",
     
+    "VerificationSystem.message.status": "§a{STATUS}",
+    
     
     
     "ClanSystem.confirm.deleteClan": "Clan delete?",
