@@ -1,0 +1,45 @@
+{
+  "name": "Österreichisch",
+  "localeCode": "at_AT",
+  "emoji": "🇦🇹",
+  "prefix": "§eBoxing§6Palace §r§f§7",
+  "contributors": ["EyNoah"],
+  "values": {
+    "LanguageSystem.change": "{PREFIX}&7Dei Sprochn wurd gändert!",
+    "LanguageSystem.values": "{PREFIX}&7DE&8, &7EN&8, &eES&8, &eAT&8, &eHR",
+    "LanguageSystem.ui.content": "§7Hawidere, wähl dei Sprochn aus",
+    "LanguageSystem.ui.title": "§e§lDialekt ändan §r§7- §f{SAVE}",
+    "server.unknown.cmd.message": "{PREFIX}&7No Command found!",
+    "CoinSystem.coins": "{PREFIX} &7Your Coins are &6{COINS} &7Coins!",
+    
+    "LobbySystem.message.buildmode.activate": "§aDu kannst nun Bauen",
+    "LobbySystem.message.buildmode.deactivate": "§cDu kannst nun nicht mehr Bauen",
+    "LobbySystem.message.soon": "{PREFIX}Cooming Soon!",
+    "LobbySystem.game.teleported": "{PREFIX}&aDu wurdest zu§6{GAME} §7teleportiert!",
+    
+    "EventSystem.notOnline": "{PREFIX}§cServer ist gerade nicht erreichbar!",
+    
+    "Console.Ingame": "{PREFIX}§cBitte nur Ingame ausführen!",
+    
+   "GroupSystem.NickList": "{PREFIX}§cNickliste auf §6§l{SERVER}",
+    "GroupSystem.message.giveplayergroup": "§7You gave §f{NAME} §7the Rank §f{GROUP}",
+    "GroupSystem.message.setnewRank": "§7You got a New Rank §f{GROUP}",
+    "GroupSystem.message.giveplayergroup": "§7You have {NAME} §f{GROUP}",
+    "GroupSystem.message.groupNotFound": "§cDiese Gruppe wurde nicht gefunden!",
+    "GroupSystem.message.rankInfo": "§7Du hast den Rang §f{GROUP} §7und der läuft ab in §c{EXPIRERANK}",
+    
+    "PrivateServer.ui.create": "§aPrivaten Server erstellen {DEV}",
+    
+    "VerificationSystem.message.status.true": "§aVerified",
+    "VerificationSystem.message.status.false": "§cNot Verified",
+    "VerificationSystem.message.player.key": "&7{KEY}",
+    
+    
+    
+    "ClanSystem.confirm.deleteClan": "Clan delete?",
+    
+    "verificationSystem.player.verificationKey": "VerifyCode",
+    "verificationSystem.status.true": "True Verified",
+    "verificationSystem.status.false": "False Verified"
+  }
+}
