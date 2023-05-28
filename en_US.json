@@ -10,12 +10,24 @@
     "LanguageSystem.ui.content": "§7Es sind {CONTRIBUTORS}",
     "LanguageSystem.ui.title": "§e§lSprache ändern §r§7- §f{SAVE}",
     "server.unknown.cmd.message": "{PREFIX}&7No Command found!",
+    
+    
+    
     "CoinSystem.coins": "{PREFIX} &7Your Coins are &6{COINS} &7Coins!",
+    
+    "CommandSystem.message.ping": "{PREFIX} &7Your Ping is currently &e{PING}&7ms.",
+    
+    
+    
     "LobbySystem.message.soon": "{PREFIX}Cooming Soon!",
+    
+    
     "ClanSystem.confirm.deleteClan": "Clan delete?",
     
     
     "Console.Ingame": "Please type this only Ingame!",
+    
+    
     "EventSystem.notOnline": "{PREFIX}§cServer is currently unavailable!",
     
     "GroupSystem.NickList": "{PREFIX}§cNickliste on {SERVER}",
