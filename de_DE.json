@@ -15,7 +15,7 @@
     "server.unknown.cmd.message": "{PREFIX}&7No Command found!",
     
     
-    "CoinSystem.coins": "{PREFIX} &7Your Coins are &6{COINS} &7Coins!",
+    "CoinSystem.coins": "{PREFIX} &7Du hast aktuell &6{COINS} &7Coins!",
     
     "CommandSystem.message.ping": "{PREFIX} &7Dein Ping ist aktuell &e{PING}&7ms.",
     
