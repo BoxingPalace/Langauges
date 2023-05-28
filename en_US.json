@@ -14,6 +14,7 @@
     
     
     "Console.Ingame": "Please type this only Ingame!",
+    "EventSystem.notOnline": "{PREFIX}§cServer is currently unavailable!",
     
     "GroupSystem.NickList": "{PREFIX}§cNickliste on {SERVER}",
     "GroupSystem.message.giveplayergroup": "§7You gave §f{NAME} §7the Rank §f{GROUP}",
