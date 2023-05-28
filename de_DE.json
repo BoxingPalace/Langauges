@@ -15,7 +15,7 @@
     "LobbySystem.message.soon": "{PREFIX}Cooming Soon!",
     "LobbySystem.game.teleported": "{PREFIX}&aDu wurdest zu§6{GAME} §7teleportiert!",
     
-    "EventSystem.notOnline": "Not Online yet.",
+    "EventSystem.notOnline": "{PREFIX}§cServer ist gerade nicht erreichbar!",
     
     "Console.Ingame": "{PREFIX}§cBitte nur Ingame ausführen!",
     
