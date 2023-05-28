@@ -1,1 +1,45 @@
-
+{
+  "name": "Schweizerdeutsch",
+  "localeCode": "ch_DE",
+  "emoji": "CH",
+  "prefix": "§eBoxing§6Palace §r§f§7",
+  "contributors": ["TruaYT"],
+  "values": {
+    "LanguageSystem.change": "{PREFIX}&7Dini sproch isch gändert worde!",
+    "LanguageSystem.values": "{PREFIX}&7DE&8, &7EN&8, &eES&8, &7CH",
+    "LanguageSystem.ui.content": "§7Vo {CONTRIBUTORS}",
+    "LanguageSystem.ui.title": "§e§lSproch ändere §r§7- §f{SAVE}",
+    "server.unknown.cmd.message": "{PREFIX}&7Es isch keis Kommando gfunde worde!",
+    "CoinSystem.coins": "{PREFIX} &7Du häsch &6{COINS} &7Coins!",
+    
+    "LobbySystem.message.buildmode.activate": "§aDu chasch jetzt baue",
+    "LobbySystem.message.buildmode.deactivate": "§cDu chasch jetzt nüme baue",
+    "LobbySystem.message.soon": "{PREFIX}Chunt irgendwenn mol!",
+    "LobbySystem.game.teleported": "{PREFIX}&aDu bist zum Spiel §6{GAME} §7teleportiert worde!",
+    
+    "EventSystem.notOnline": "{PREFIX}§cDe Server isch grad nöd zur verfüegig!",
+    
+    "Console.Ingame": "{PREFIX}§cBitte nur Ingame ausführen!",
+    
+   "GroupSystem.NickList": "{PREFIX}§cNickliste auf §6§l{SERVER}",
+    "GroupSystem.message.giveplayergroup": "§7Du häsch an §f{NAME} §7de Rang §f{GROUP} §7geh!",
+    "GroupSystem.message.setnewRank": "§7Du häsch en neue Rang becho: §f{GROUP}",
+    "GroupSystem.message.giveplayergroup": "§7You have ??????????????????? {NAME} §f{GROUP}",
+    "GroupSystem.message.groupNotFound": "§cDe Rang gits gar nöd!",
+    "GroupSystem.message.rankInfo": "§7De Rang §f{GROUP} §7häsch no für §c{EXPIRERANK}",
+    
+    "PrivateServer.ui.create": "§aPrivati Rundi erstelle {DEV}",
+    
+    "VerificationSystem.message.status.true": "§aVerifiziert",
+    "VerificationSystem.message.status.false": "§cNöd Verifiziert",
+    "VerificationSystem.message.player.key": "&7{KEY}",
+    
+    
+    
+    "ClanSystem.confirm.deleteClan": "Clan lösche?",
+    
+    "verificationSystem.player.verificationKey": "VerifyCode",
+    "verificationSystem.status.true": "True Verified",
+    "verificationSystem.status.false": "False Verified"
+  }
+}
