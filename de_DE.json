@@ -19,7 +19,7 @@
     
     "Console.Ingame": "{PREFIX}§cBitte nur Ingame ausführen!",
     
-   "GroupSystem.NickList": "{PREFIX}§cNickliste on {SERVER}",
+   "GroupSystem.NickList": "{PREFIX}§cNickliste auf §6§l{SERVER}",
     "GroupSystem.message.giveplayergroup": "§7You gave §f{NAME} §7the Rank §f{GROUP}",
     "GroupSystem.message.setnewRank": "§7You got a New Rank §f{GROUP}",
     "GroupSystem.message.giveplayergroup": "§7You have {NAME} §f{GROUP}",
