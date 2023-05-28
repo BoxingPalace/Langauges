@@ -17,6 +17,8 @@
     
     "CoinSystem.coins": "{PREFIX} &7Your Coins are &6{COINS} &7Coins!",
     
+    "CommandSystem.message.ping": "{PREFIX} &7Dein Ping ist aktuell &e{PING}&7ms.",
+    
     "LobbySystem.message.buildmode.activate": "§aDu kannst nun Bauen",
     "LobbySystem.message.buildmode.deactivate": "§cDu kannst nun nicht mehr Bauen",
     "LobbySystem.message.soon": "{PREFIX}Cooming Soon!",
