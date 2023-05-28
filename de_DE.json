@@ -7,7 +7,8 @@
   "values": {
     "LanguageSystem.change": "{PREFIX}&7Deine Sprache wurde nun geändert!",
     "LanguageSystem.values": "{PREFIX}&7DE&8, &7EN&8, &eES",
-    "LanguageSystem.ui.content": "§7There are {CONTRIBUTORS}",
+    "LanguageSystem.ui.content": "§7Es sind {CONTRIBUTORS}",
+    "LanguageSystem.ui.title": "§e§lSprache ändern §r§7- §f{SAVE}",
     "server.unknown.cmd.message": "{PREFIX}&7No Command found!",
     "CoinSystem.coins": "{PREFIX} &7Your Coins are &6{COINS} &7Coins!",
     
