@@ -9,7 +9,10 @@
     "LanguageSystem.values": "{PREFIX}&7DE&8, &7EN&8, &eES&8, &eAT&8, &eHR",
     "LanguageSystem.ui.content": "§7Hawidere, wähl dei Sprochn aus",
     "LanguageSystem.ui.title": "§e§lDialekt ändan §r§7- §f{SAVE}",
-    "server.unknown.cmd.message": "{PREFIX}&7No Command found!",
+    
+    "Server.unknown.cmd.message": "{PREFIX}&7No Command found!",
+    "Server.message.join": "&7Servas &f{PLAYER} &7Willkommen oida {WORD}",
+    
     "CoinSystem.coins": "{PREFIX} &7Your Coins are &6{COINS} &7Coins!",
     
     "LobbySystem.message.buildmode.activate": "§aDu kannst nun Bauen",
