@@ -1,2 +1,11 @@
 {
-  
+  "name": "Example Speech",
+  "localeCode": "Your Locale code like de_DE",
+  "emoji": "🇰🇵",
+  "prefix": "§eBoxing§6Palace §r§f§7",
+  "contributors": ["Your Name"],
+  "values": {
+    "Example.Key": "{PREFIX}This is a Example Language Key",
+    "Example.second.Key": "{PREFIX}This is a Example &aColor&bfull &7Key"
+  }
+}
