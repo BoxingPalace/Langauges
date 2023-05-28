@@ -25,6 +25,10 @@
     
     "verificationSystem.player.verificationKey": "VerifyCode",
     "verificationSystem.status.true": "True Verified",
-    "verificationSystem.status.false": "False Verified"
+    "verificationSystem.status.false": "False Verified",
+    
+    
+    "PrivateServer.ui.create": "§aCreate a Private Server"
+    
   }
 }
