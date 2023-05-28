@@ -23,7 +23,7 @@
     "GroupSystem.message.giveplayergroup": "§7You gave §f{NAME} §7the Rank §f{GROUP}",
     "GroupSystem.message.setnewRank": "§7You got a New Rank §f{GROUP}",
     "GroupSystem.message.giveplayergroup": "§7You have {NAME} §f{GROUP}",
-    "GroupSystem.message.groupNotFound": "§cThis Group was not Found",
+    "GroupSystem.message.groupNotFound": "§cDiese Gruppe wurde nicht gefunden!",
     "GroupSystem.message.rankInfo": "§7Du hast den Rang §f{GROUP} §7und der läuft ab in §c{EXPIRERANK}",
     
     
