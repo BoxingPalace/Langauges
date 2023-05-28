@@ -9,7 +9,12 @@
     "LanguageSystem.values": "{PREFIX}&7DE&8, &7EN&8, &eES",
     "LanguageSystem.ui.content": "§7Es sind {CONTRIBUTORS}",
     "LanguageSystem.ui.title": "§e§lSprache ändern §r§7- §f{SAVE}",
+    
+    
+    "Server.message.join": "&7Guten Tag {PLAYER} &7willkommen auf dem Server!",
     "server.unknown.cmd.message": "{PREFIX}&7No Command found!",
+    
+    
     "CoinSystem.coins": "{PREFIX} &7Your Coins are &6{COINS} &7Coins!",
     
     "LobbySystem.message.buildmode.activate": "§aDu kannst nun Bauen",
@@ -37,6 +42,9 @@
     
     
     "ClanSystem.confirm.deleteClan": "Clan delete?",
+    "ClanSystem.ui.createClan": "§aClan erstellen",
+    
+    "ClanSystem.clan.created": "{CLANSYS}&7Dein Clan &f{CLANNAME} &7mit dem Tag &6{CLANTAG} &7wurde nun erstellt",
     
     "verificationSystem.player.verificationKey": "VerifyCode",
     "verificationSystem.status.true": "True Verified",
