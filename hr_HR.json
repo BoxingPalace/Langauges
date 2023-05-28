@@ -24,7 +24,7 @@
     "GroupSystem.message.setnewRank": "§7You got a New Rank §f{GROUP}",
     "GroupSystem.message.giveplayergroup": "§7You have {NAME} §f{GROUP}",
     "GroupSystem.message.groupNotFound": "§cThis Group was not Found",
-    "GroupSystem.message.rankInfo": "§7Du hast den Rang §f{GROUP} §7und der läuft ab in §c{EXPIRERANK}",
+    "GroupSystem.message.rankInfo": "§7imaš čin §f{GROUP} §7i ističe u §c{EXPIRERANK}",
     
     
     
