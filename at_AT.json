@@ -14,21 +14,21 @@
     
     "LobbySystem.message.buildmode.activate": "§aDu kannst nun Bauen",
     "LobbySystem.message.buildmode.deactivate": "§cDu kannst nun nicht mehr Bauen",
-    "LobbySystem.message.soon": "{PREFIX}Cooming Soon!",
+    "LobbySystem.message.soon": "{PREFIX}Boid verfügboa!",
     "LobbySystem.game.teleported": "{PREFIX}&aDu wurdest zu§6{GAME} §7teleportiert!",
     
-    "EventSystem.notOnline": "{PREFIX}§cServer ist gerade nicht erreichbar!",
+    "EventSystem.notOnline": "{PREFIX}§cda Server is grod net online!",
     
-    "Console.Ingame": "{PREFIX}§cBitte nur Ingame ausführen!",
+    "Console.Ingame": "{PREFIX}§cWos isn mit dir? Nur Ingame oida bist deppat?!",
     
    "GroupSystem.NickList": "{PREFIX}§cNickliste auf §6§l{SERVER}",
     "GroupSystem.message.giveplayergroup": "§7You gave §f{NAME} §7the Rank §f{GROUP}",
     "GroupSystem.message.setnewRank": "§7You got a New Rank §f{GROUP}",
     "GroupSystem.message.giveplayergroup": "§7You have {NAME} §f{GROUP}",
     "GroupSystem.message.groupNotFound": "§cDiese Gruppe wurde nicht gefunden!",
-    "GroupSystem.message.rankInfo": "§7Du hast den Rang §f{GROUP} §7und der läuft ab in §c{EXPIRERANK}",
+    "GroupSystem.message.rankInfo": "§7Du host den Grad §f{GROUP} §7und du hast des für a launge Zeit um genau zum Sein so §c{EXPIRERANK}",
     
-    "PrivateServer.ui.create": "§aPrivaten Server erstellen {DEV}",
+    "PrivateServer.ui.create": "§aan Privatn Server erstöhn",
     
     "VerificationSystem.message.status.true": "§aVerified",
     "VerificationSystem.message.status.false": "§cNot Verified",
