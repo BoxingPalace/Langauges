@@ -36,7 +36,7 @@
     "GroupSystem.message.giveplayergroup": "§7You have {NAME} §f{GROUP}",
     "GroupSystem.message.groupNotFound": "§cDiese Gruppe wurde nicht gefunden!",
     "GroupSystem.message.rankInfo": "§7Du hast den Rang §f{GROUP} §7und der läuft ab in §c{EXPIRERANK}",
-    "GroupSystem.message.addNick" "&7Du hast den Nick &6{NAME} &7hinzugefügt",
+    "GroupSystem.message.addNick": "&7Du hast den Nick &6{NAME} &7hinzugefügt",
     
     "PrivateServer.ui.create": "§aPrivaten Server erstellen {DEV}",
     
