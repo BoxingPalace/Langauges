@@ -10,6 +10,8 @@
     "LanguageSystem.ui.content": "§7Es sind {CONTRIBUTORS}",
     "LanguageSystem.ui.title": "§e§lSprache ändern §r§7- §f{SAVE}",
     
+    "CommandSystem.noPerm": "{PREFIX}&cDarauf hast du keine Rechte",
+    
     
     "Server.message.join": "&7Guten Tag {PLAYER} &7willkommen auf dem Server!",
     "server.unknown.cmd.message": "{PREFIX}&7No Command found!",
@@ -34,6 +36,7 @@
     "GroupSystem.message.giveplayergroup": "§7You have {NAME} §f{GROUP}",
     "GroupSystem.message.groupNotFound": "§cDiese Gruppe wurde nicht gefunden!",
     "GroupSystem.message.rankInfo": "§7Du hast den Rang §f{GROUP} §7und der läuft ab in §c{EXPIRERANK}",
+    "GroupSystem.message.addNick" "&7Du hast den Nick &6{NAME} &7hinzugefügt",
     
     "PrivateServer.ui.create": "§aPrivaten Server erstellen {DEV}",
     
