@@ -25,7 +25,7 @@
     "ClanSystem.confirm.deleteClan": "Clan delete?",
     
     
-    "Console.Ingame": "Please type this only Ingame!",
+    "Console.Ingame": "{PREFIX}Please type this only Ingame!",
     
     
     "EventSystem.notOnline": "{PREFIX}§cServer is currently unavailable!",
