@@ -14,7 +14,7 @@
     
     
     "Server.message.join": "&7Guten Tag {PLAYER} &7willkommen auf dem Server!",
-    "server.unknown.cmd.message": "{PREFIX}&7No Command found!",
+    "server.unknown.cmd.message": "{PREFIX}&cDer Befehl wurde nicht gefunden! &8(&6{CMD}&8)",
     
     
     "CoinSystem.coins": "{PREFIX} &7Du hast aktuell &6{COINS} &7Coins!",
