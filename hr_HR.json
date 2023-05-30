@@ -3,7 +3,7 @@
   "localeCode": "hr_HR",
   "emoji": "🇭🇷",
   "prefix": "§eBoxing§6Palace §r§f§7",
-  "contributors": ["EyNoah"],
+  "contributors": ["EyNoah", "GamilinoMCYT"],
   "values": {
     "LanguageSystem.change": "{PREFIX}&7Vaš jezik je sada promijenjen!",
     "LanguageSystem.values": "{PREFIX}&7DE&8, &7EN&8, &eES&8, &7HR",
@@ -13,25 +13,25 @@
     "LobbySystem.message.buildmode.activate": "§aSada možete graditi",
     "LobbySystem.message.buildmode.deactivate": "§cNe možete više graditi",
     "LobbySystem.message.soon": "{PREFIX}Dolazi uskoro!",
-    "LobbySystem.game.teleported": "{PREFIX}&aDu wurdest zu§6{GAME} §7teleportiert!",
+    "LobbySystem.game.teleported": "{PREFIX}&aTeleportirao si se u§6{GAME} §7!",
     
-    "EventSystem.notOnline": "Not Online yet.",
+    "EventSystem.notOnline": "Još nije Online",
     
-    "Console.Ingame": "{PREFIX}§cBitte nur Ingame ausführen!",
+    "Console.Ingame": "{PREFIX}§cTo samo možeš radit u igri!",
     
-   "GroupSystem.NickList": "{PREFIX}§cNickliste on {SERVER}",
-    "GroupSystem.message.giveplayergroup": "§7You gave §f{NAME} §7the Rank §f{GROUP}",
-    "GroupSystem.message.setnewRank": "§7You got a New Rank §f{GROUP}",
-    "GroupSystem.message.giveplayergroup": "§7You have {NAME} §f{GROUP}",
-    "GroupSystem.message.groupNotFound": "§cThis Group was not Found",
-    "GroupSystem.message.rankInfo": "§7imaš čin §f{GROUP} §7i ističe u §c{EXPIRERANK}",
+   "GroupSystem.NickList": "{PREFIX}§cNicklista na {SERVER}",
+    "GroupSystem.message.giveplayergroup": "§7Dao si §f{NAME} §7grupu koja se zove §f{GROUP}",
+    "GroupSystem.message.setnewRank": "§7Dobijo si novi čin §f{GROUP}",
+    "GroupSystem.message.giveplayergroup": "§7Imaš {NAME} §f{GROUP}",
+    "GroupSystem.message.groupNotFound": "§cOvaj čin nije se mogao naći",
+    "GroupSystem.message.rankInfo": "§7Imaš čin §f{GROUP} §7i ističe u §c{EXPIRERANK}",
     
     
     
-    "ClanSystem.confirm.deleteClan": "Clan delete?",
+    "ClanSystem.confirm.deleteClan": "Poništiti ovaj clan?",
     
     "verificationSystem.player.verificationKey": "VerifyCode",
-    "verificationSystem.status.true": "True Verified",
-    "verificationSystem.status.false": "False Verified"
+    "verificationSystem.status.true": "Točno Verified",
+    "verificationSystem.status.false": "Pogrešno Verified"
   }
 }
