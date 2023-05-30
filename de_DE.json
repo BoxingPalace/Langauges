@@ -53,6 +53,7 @@
     
     "ClanSystem.ui.button.create": "&aClan erstellen",
     "ClanSystem.ui.title": "&aClans",
+    "ClanSystem.clan.notInAClan": "&cDu bist in keinem Clan",
     
     "VerificationSystem.player.verificationKey": "VerifyCode",
     "VerificationSystem.message.player.key": "{KEY}",
