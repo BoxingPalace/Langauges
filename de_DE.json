@@ -51,9 +51,9 @@
     
     "ClanSystem.clan.created": "{CLANSYS}&7Dein Clan &f{CLANNAME} &7mit dem Tag &6{CLANTAG} &7wurde nun erstellt",
     
-    "verificationSystem.player.verificationKey": "VerifyCode",
+    "VerificationSystem.player.verificationKey": "VerifyCode",
     "VerificationSystem.message.player.key": "{KEY}",
-    "verificationSystem.status.true": "True Verified",
-    "verificationSystem.status.false": "False Verified"
+    "VerificationSystem.status.true": "True Verified",
+    "VerificationSystem.status.false": "False Verified"
   }
 }
