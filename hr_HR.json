@@ -20,11 +20,11 @@
     "Console.Ingame": "{PREFIX}§cTo samo možeš radit u igri!",
     
    "GroupSystem.NickList": "{PREFIX}§cNicklista na {SERVER}",
-    "GroupSystem.message.giveplayergroup": "§7Dao si §f{NAME} §7grupu kaje se sove §f{GROUP}",
+    "GroupSystem.message.giveplayergroup": "§7Dao si §f{NAME} §7grupu koja se zove §f{GROUP}",
     "GroupSystem.message.setnewRank": "§7Dobijo si novi čin §f{GROUP}",
-    "GroupSystem.message.giveplayergroup": "§7You have {NAME} §f{GROUP}",
-    "GroupSystem.message.groupNotFound": "§cOvj čin nije se mogls naći",
-    "GroupSystem.message.rankInfo": "§7imaš čin §f{GROUP} §7i ističe u §c{EXPIRERANK}",
+    "GroupSystem.message.giveplayergroup": "§7Imaš {NAME} §f{GROUP}",
+    "GroupSystem.message.groupNotFound": "§cOvaj čin nije se mogao naći",
+    "GroupSystem.message.rankInfo": "§7Imaš čin §f{GROUP} §7i ističe u §c{EXPIRERANK}",
     
     
     
