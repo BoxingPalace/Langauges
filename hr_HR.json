@@ -17,7 +17,7 @@
     
     "EventSystem.notOnline": "Još nije Online",
     
-    "Console.Ingame": "{PREFIX}§cTo nemožeš radit u igri!",
+    "Console.Ingame": "{PREFIX}§cTo samo možeš radit u igri!",
     
    "GroupSystem.NickList": "{PREFIX}§cNicklista na {SERVER}",
     "GroupSystem.message.giveplayergroup": "§7Dao si §f{NAME} §7grupu kaje se sove §f{GROUP}",
