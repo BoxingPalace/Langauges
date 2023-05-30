@@ -51,6 +51,9 @@
     
     "ClanSystem.clan.created": "{CLANSYS}&7Dein Clan &f{CLANNAME} &7mit dem Tag &6{CLANTAG} &7wurde nun erstellt",
     
+    "ClanSystem.ui.button.create": "&aClan erstellen",
+    "ClanSystem.ui.title": "&aClans",
+    
     "VerificationSystem.player.verificationKey": "VerifyCode",
     "VerificationSystem.message.player.key": "{KEY}",
     "VerificationSystem.status.true": "True Verified",
