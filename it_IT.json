@@ -1,0 +1,11 @@
+{
+  "name": "Italian",
+  "localeCode": "it_IT",
+  "emoji": "🇮🇹",
+  "prefix": "§eBoxing§6Palace §r§f§7",
+  "contributors": ["EyNoah", ""],
+  "values": {
+    "Example.Key": "{PREFIX}This is a Example Language Key",
+    "Example.second.Key": "{PREFIX}This is a Example &aColor&bfull &7Key"
+  }
+}
