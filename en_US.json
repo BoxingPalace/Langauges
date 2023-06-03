@@ -20,6 +20,7 @@
     
     
     "LobbySystem.message.soon": "{PREFIX}Cooming Soon!",
+    "LobbySystem.items.teleporter.name": "§8• §eTeleporter §8•",
     
     
     "ClanSystem.confirm.deleteClan": "Clan delete?",
