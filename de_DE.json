@@ -25,6 +25,7 @@
     "LobbySystem.message.buildmode.deactivate": "§cDu kannst nun nicht mehr Bauen",
     "LobbySystem.message.soon": "{PREFIX}Cooming Soon!",
     "LobbySystem.game.teleported": "{PREFIX}&aDu wurdest zu§6{GAME} §7teleportiert!",
+    "LobbySystem.items.teleporter.name": "§8• §eNavigator §8•",
     
     "EventSystem.notOnline": "{PREFIX}§cServer ist gerade nicht erreichbar!",
     
