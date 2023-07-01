@@ -20,6 +20,9 @@
     "CoinSystem.coins": "{PREFIX} &7Du hast aktuell &6{COINS} &7Coins!",
     
     "CommandSystem.message.ping": "{PREFIX} &7Dein Ping ist aktuell &e{PING}&7ms.",
+    "CommandSystem.message.gmc": "{PREFIX} &7Dein Gamemode wurde auf &6Kreativ &7gesetzt!",
+    "CommandSystem.message.gma": "{PREFIX} &7Dein Gamemode wurde auf &6Abenteuer &7gesetzt!",
+    "CommandSystem.message.gms": "{PREFIX} &7Dein Gamemode wurde auf &6Überleben &7gesetzt!",
     
     "LobbySystem.message.buildmode.activate": "§aDu kannst nun Bauen",
     "LobbySystem.message.buildmode.deactivate": "§cDu kannst nun nicht mehr Bauen",
