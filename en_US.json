@@ -38,6 +38,8 @@
     "GroupSystem.message.groupNotFound": "§cThis Group was not Found",
     "GroupSystem.message.rankInfo": "§7You have the rank §f{GROUP} §7 and it expires in §c{EXPIRERANK}",
     
+    "GroupSystem.key.ablauf": "§cPermanent",
+    
     "verificationSystem.player.verificationKey": "VerifyCode",
     "verificationSystem.status.true": "True Verified",
     "verificationSystem.status.false": "False Verified",
