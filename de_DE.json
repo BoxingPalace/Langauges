@@ -31,6 +31,7 @@
     "LobbySystem.items.teleporter.name": "§8• §eNavigator §8•",
 
     "LobbySystem.sb.onlinetime": "Onlinezeit",
+    "LobbySystem.sb.online": "Spieler",
     
     "EventSystem.notOnline": "{PREFIX}§cServer ist gerade nicht erreichbar!",
     
