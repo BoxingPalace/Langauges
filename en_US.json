@@ -21,6 +21,9 @@
     
     "LobbySystem.message.soon": "{PREFIX}Cooming Soon!",
     "LobbySystem.items.teleporter.name": "§8• §eTeleporter §8•",
+
+    "LobbySystem.sb.onlinetime": "Onlinetime",
+    "LobbySystem.sb.online": "Players",
     
     
     "ClanSystem.confirm.deleteClan": "Clan delete?",
