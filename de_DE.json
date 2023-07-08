@@ -24,8 +24,8 @@
     "CommandSystem.message.gma": "{PREFIX} &7Dein Gamemode wurde auf &6Abenteuer &7gesetzt!",
     "CommandSystem.message.gms": "{PREFIX} &7Dein Gamemode wurde auf &6Überleben &7gesetzt!",
     
-    "LobbySystem.message.buildmode.activate": "§aDu kannst nun Bauen",
-    "LobbySystem.message.buildmode.deactivate": "§cDu kannst nun nicht mehr Bauen",
+    "LobbySystem.message.bm.activate": "§aDu kannst nun Bauen",
+    "LobbySystem.message.bm.deactivate": "§cDu kannst nun nicht mehr Bauen",
     "LobbySystem.message.soon": "{PREFIX}Cooming Soon!",
     "LobbySystem.game.teleported": "{PREFIX}&aDu wurdest zu§6{GAME} §7teleportiert!",
     "LobbySystem.items.teleporter.name": "§8• §eNavigator §8•",
