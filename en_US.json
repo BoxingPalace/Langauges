@@ -19,11 +19,14 @@
     
     
     
+     "LobbySystem.message.bm.activate": "§aYou can build now!",
+    "LobbySystem.message.bm.deactivate": "§cYou cannot Build right now!",
     "LobbySystem.message.soon": "{PREFIX}Cooming Soon!",
+    "LobbySystem.game.teleported": "{PREFIX}&aDu wurdest zu§6{GAME} §7teleportiert!",
     "LobbySystem.items.teleporter.name": "§8• §eTeleporter §8•",
 
-    "LobbySystem.sb.onlinetime": "Onlinetime",
-    "LobbySystem.sb.online": "Players",
+    "LobbySystem.sb.onlinetime": "Onlinezeit",
+    "LobbySystem.sb.online": "Spieler",
     
     
     "ClanSystem.confirm.deleteClan": "Clan delete?",
