@@ -29,6 +29,8 @@
     "LobbySystem.message.soon": "{PREFIX}Cooming Soon!",
     "LobbySystem.game.teleported": "{PREFIX}&aDu wurdest zu§6{GAME} §7teleportiert!",
     "LobbySystem.items.teleporter.name": "§8• §eNavigator §8•",
+
+    "LobbySystem.sb.onlinetime": "Onlinezeit",
     
     "EventSystem.notOnline": "{PREFIX}§cServer ist gerade nicht erreichbar!",
     
