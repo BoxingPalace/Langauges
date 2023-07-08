@@ -9,6 +9,7 @@
     "LanguageSystem.values": "{PREFIX}&7DE&8, &7EN&8, &eES",
     "LanguageSystem.ui.content": "§7Es sind {CONTRIBUTORS}",
     "LanguageSystem.ui.title": "§e§lSprache ändern §r§7- §f{SAVE}",
+    "LanguageSystem.ui.button": "§6§l{NAME}\n§r§8» §e{VALUES}",
     
     "CommandSystem.noPerm": "{PREFIX}&cDarauf hast du keine Rechte",
     
